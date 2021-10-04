@@ -1,4 +1,4 @@
-### Hello there! I'm Dom. A Makers Academy Grade!
+### Hello there! I'm Dom. A Makers Academy Grad!
 
 
 - 🔭 I’m currently working on ... Find My Range
