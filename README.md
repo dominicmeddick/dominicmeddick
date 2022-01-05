@@ -24,7 +24,7 @@
 | Project   |      Description      |  Framework |
 |----------|:-------------:|------:|
 | [Pace](https://github.com/dominicmeddick/pace-1) |  A running app built in Rails, designed to help runners feel safer and train harder. | Ruby on Rails |
-| [Chitter](https://github.com/dominicmeddick/chitter) |    A Twitter Clone inspired by Makers user stories for a bit of a twist   |   Ruby on Rails |
+| [Chitter](https://github.com/dominicmeddick/chitter) |    A Twitter Clone! Inspired by Makers user stories for a bit of a twist   |   Ruby on Rails |
 | [Music Player](https://github.com/dominicmeddick/Music-player) | A Music Player built with vanilla Javascript |   Vanilla JS, HTML, CSS |
 | [Card Game](https://github.com/dominicmeddick/simple_poker_game) | A card game, played between two or more players where immediately after the cards are dealt, the player with the highest hand wins. | Ruby, Sinatra |
 
