@@ -17,7 +17,7 @@
 ### My Goals
 
 - 🏁 Once I'm finished with my latest project I want to learn the frontend framework React.
-- 🐍 The next language on my list to learn is Python!
+- 📘 The next language on my list to learn is C#!
 
 ### Project Highlights
 
