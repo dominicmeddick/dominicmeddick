@@ -27,22 +27,25 @@
 | [Chitter](https://github.com/dominicmeddick/chitter) |    A Twitter Clone! Inspired by Makers user stories for a bit of a twist   |   Ruby on Rails |
 | [Music Player](https://github.com/dominicmeddick/Music-player) | A Music Player built with vanilla Javascript |   Vanilla JS, HTML, CSS |
 | [Card Game](https://github.com/dominicmeddick/simple_poker_game) | A card game, played between two or more players where immediately after the cards are dealt, the player with the highest hand wins. | Ruby, Sinatra |
-| [Tennis API](https://github.com/dominicmeddick/tennis_api) | A WebAPI which manages players and their rankings at a Tennis club with various endpoints. | C#, NUnit |
+| [Tennis API](https://github.com/dominicmeddick/tennis_api) | A WebAPI which manages players and their rankings at a Tennis club with various endpoints. | C#, .Net, NUnit, ASP.NET |
 
 
 ### Languages and Tools
 
 - Ruby
-- Ruby on Rails
-- C#
 - Javascript
-- Sinatra
-- Rspec
-- Nunit
-- Capybara
+- C#
 - HTML
 - CSS
+- Rspec
+- Nunit
+- Ruby on Rails
+- ASP.NET
+- Sinatra
+- Capybara
 - PostgreSQL
+- SQLlite
+- Microsoft SQL server
 - Git
 - Heroku
 - Docker
