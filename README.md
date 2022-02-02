@@ -16,7 +16,7 @@
 
 ### My Goals
 
-- 🏁 Once I'm finished with my latest project I want to learn the frontend framework React.
+- 🏁 Once I'm finished with my latest project I want to build an app that tranposes music to suit the users singing range. 
 - 📘 The next language on my list to learn is C#!
 
 ### Project Highlights
