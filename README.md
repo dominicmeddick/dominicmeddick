@@ -30,7 +30,7 @@
 | [Tennis API](https://github.com/dominicmeddick/tennis_api) | A WebAPI which manages players and their rankings at a Tennis club with various endpoints. | C#, .Net, NUnit, ASP.NET |
 
 
-### Languages and Tools
+### Tech Stacks
 
 - Ruby
 - Javascript
@@ -59,3 +59,4 @@
 - MCV Pattern
 - Git workflow
 - Code review
+- Pair Programming
