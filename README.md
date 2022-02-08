@@ -1,4 +1,4 @@
-### Hello there! I'm Dom. A Makers Academy Grad!
+### Hey 👋🏻! I'm Dom. A Makers Academy Grad!
 
 ------------------------------------------------------------------------
 #### I'm looking for my first full stack developer role after finishing the Makers Academy Bootcamp!
